@@ -1,0 +1,2 @@
+# SimpleFTP
+在linux下用c实现的一个简单的ftp服务端和客户端
